@@ -36,16 +36,20 @@ Through this project, you will:
 * App utilizes stable release versions of all libraries, Gradle, and Android Studio.
 
 ## Screenshot
+<h3 align="center">--- Portrait Mode ---</h3>
+<br/>
 
+<img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/1.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/2.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/3.png" alt="HOME" width="20%" height="20%" hspace="20"><img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/4.png" alt="HOME" width="20%" height="20%" hspace="20">
 
-<img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/1.png" alt="HOME" width="30%" height="30%">
+<h3 align="center">--- Landscape Mode ---</h3>
+<br/>
 
-<!---
-![Image1](screenshot/1.png)
-![Image2](screenshot/2.png)
-![Image3](screenshot/3.png)
-![Image4](screenshot/4.png)
-![Image5](screenshot/5.png)
-![Image6](screenshot/6.png)
-![Image6](screenshot/7.png)
--->
+<p align="center">
+<img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/6.png" alt="HOME" width="90%" height="90%">
+  </p>
+  
+<br/><br/><br/><br/>
+
+<p align="center">
+<img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/7.png" alt="HOME" width="90%" height="90%">
+  </p>
