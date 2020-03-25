@@ -53,3 +53,6 @@ Through this project, you will:
 <p align="center">
 <img src="https://github.com/satyampatil/make-your-app-material/blob/master/screenshot/7.png" alt="HOME" width="90%" height="90%">
   </p>
+
+## Note
+Gradle version used is 3.5.2.
