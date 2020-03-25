@@ -23,6 +23,3 @@ Through this project, you will:
 
 ## Screenshot
 ![xyz_reader_main](https://user-images.githubusercontent.com/33213229/47618315-d4c04780-db14-11e8-900d-8b2f600a264b.png)
-
-## Review from a Udacity reviewer
-![Make_Your_App_Material_Review](https://user-images.githubusercontent.com/33213229/57780155-a75e8280-7762-11e9-94e5-f222464d452d.png)
