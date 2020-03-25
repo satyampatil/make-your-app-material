@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_page_animation_options">
+        <item>@string/pref_page_animation_label_pop</item>
+        <item>@string/pref_page_animation_label_zoom</item>
+        <item>@string/pref_page_animation_label_depth</item>
+        <item>@string/pref_page_animation_label_cube</item>
+    </string-array>
+
+    <string-array name="pref_page_animation_values">
+        <item>@string/pref_page_animation_pop</item>
+        <item>@string/pref_page_animation_zoom</item>
+        <item>@string/pref_page_animation_depth</item>
+        <item>@string/pref_page_animation_cube</item>
+    </string-array>
+
+    <string-array name="pref_text_size_options">
+        <item>@string/pref_text_size_label_small</item>
+        <item>@string/pref_text_size_label_medium</item>
+        <item>@string/pref_text_size_label_large</item>
+        <item>@string/pref_text_size_label_extra_large</item>
+    </string-array>
+
+    <string-array name="pref_text_size_values">
+        <item>@string/pref_text_size_small</item>
+        <item>@string/pref_text_size_medium</item>
+        <item>@string/pref_text_size_large</item>
+        <item>@string/pref_text_size_extra_large</item>
+    </string-array>
+</resources>

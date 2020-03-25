@@ -1,0 +1,27 @@
+<resources>
+    <style name="Theme.Bacon" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Since we're using a PreferenceFragmentCompat library, we need to add a theme -->
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay</item>
+
+        <!-- Enable window content transitions -->
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowReenterTransition">@transition/main_reenter</item>
+    </style>
+
+    <style name="Theme.Bacon.Detail">
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Enable window content transitions -->
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowEnterTransition">@transition/detail_enter</item>
+        <item name="android:windowReturnTransition">@transition/detail_return</item>
+
+        <item name="android:windowSharedElementEnterTransition">@transition/shared_photo</item>
+        <item name="android:windowSharedElementExitTransition">@transition/shared_photo</item>
+    </style>
+
+</resources>
