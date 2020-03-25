@@ -22,4 +22,10 @@ Through this project, you will:
 * Create a custom ThreeTwoImageView to make all the images have the same proportion
 
 ## Screenshot
-![xyz_reader_main](https://user-images.githubusercontent.com/33213229/47618315-d4c04780-db14-11e8-900d-8b2f600a264b.png)
+![Image1](screenshot/1.png)
+![Image2](screenshot/2.png)
+![Image3](screenshot/3.png)
+![Image4](screenshot/4.png)
+![Image5](screenshot/5.png)
+![Image6](screenshot/6.png)
+![Image6](screenshot/7.png)
