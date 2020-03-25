@@ -14,14 +14,6 @@ Through this project, you will:
 * Separate an interface into surfaces.
 * Effectively use transitions and motion.
 
-## Image Resources
-[Reading](https://www.flaticon.com/free-icon/reading_86541)
-made by [Freepik](http://www.freepik.com) from [www.flaticon.com](www.flaticon.com) is licensed by
-[CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).
-
-## Video
-I've created a video demonstrating the app. Click [here](https://youtu.be/EQR6c5XaQIA) to view the video.
-
 ## Features
 * Implement the Shared Element Transition
 * Customize the animation using PageTransformer
