@@ -32,22 +32,5 @@ I've created a video demonstrating the app. Click [here](https://youtu.be/EQR6c5
 ## Screenshot
 ![xyz_reader_main](https://user-images.githubusercontent.com/33213229/47618315-d4c04780-db14-11e8-900d-8b2f600a264b.png)
 
-## License
-```
-Copyright 2018 Soojeong Shin
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
-
 ## Review from a Udacity reviewer
 ![Make_Your_App_Material_Review](https://user-images.githubusercontent.com/33213229/57780155-a75e8280-7762-11e9-94e5-f222464d452d.png)
